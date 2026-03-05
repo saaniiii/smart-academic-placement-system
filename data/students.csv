@@ -1,0 +1,6 @@
+student_id,name,cgpa,attendance_percent,skills,status
+1,Aman,8.5,85,"Python,SQL,Excel",Placed
+2,Riya,7.2,75,"Java,HTML",Not Placed
+3,Kabir,9.1,92,"Python,ML,SQL,PowerBI",Placed
+4,Sana,6.8,70,"C++,HTML",Not Placed
+5,Arjun,8.0,88,"Python,Excel",Placed
